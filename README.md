@@ -1,6 +1,1 @@
-# Herd-Mentality-Simulation
-This project explores how individual behaviors influence group dynamics through three interactive simulations built with p5.js
-# -Herd-Mentality-How-Humans-Behave-in-Groups
-# Herd-Mentality-Simulation
-# Herd-Mentality
-# Herd-Mentality
+A herd mentality simulation is a visual or computational model that demonstrates how individuals in a group tend to conform to the behavior or decisions of the majority—often without independent analysis or reasoning. It's used in psychology, economics, behavioral science, and AI to explore decision-making, crowd behavior, or even financial markets.
