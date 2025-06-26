@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rumor Spread</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="Rumorspread.css">
+</head>
+<body>
+<nav>
+    <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="LeaderFollow.html">Leader-Follower</a></li>
+        <li><a href="SocialMedia.html">Social Media</a></li>
+        <li><a href="RumorSpread.html">Rumor Spread</a></li>
+    </ul>
+</nav>
+
+<h2>Rumor Spread Simulation</h2>
+<p style="text-align:center;">This simulation visualizes how a rumor spreads through a population. Red = spreading, gray = unaware, blue = stopped.</p>
+
+<div id="controls">
+    <button onclick="loop()">Start</button>
+    <button onclick="noLoop()">Pause</button>
+    <button onclick="window.location.reload()">Reset</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.min.js"></script>
+<script src="Rumorspread.js"></script>
+</body>
+</html>
+
